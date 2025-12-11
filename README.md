@@ -1,3 +1,5 @@
+**This repository was archived by Idil Yaktubay (iyaktubay@iisd-ela.org) on 2025-12-11 due to inactivity. Archived repositories are read-only. If you'd like this repository to be unarchived, please reach out.**
+
 # WatQC Water Quality Dashboard
 ## Description
 This code creates a dashboard where users are able to visualize data from ACAP-St. John's Community-Based Water Monitoring Program Dataset. It allows users to visualize trends for 
